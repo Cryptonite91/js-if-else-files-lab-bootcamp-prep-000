@@ -5,3 +5,4 @@ var height = 70
 module.exports = { name, height
 }
 
+console.log(name)
